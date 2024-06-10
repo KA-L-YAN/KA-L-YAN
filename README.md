@@ -1,3 +1,4 @@
+![Kalyan's GitHub Banner](https://github.com/KA-L-YAN/Images/blob/main/banner.jpg)
 <h1 align="center">Hey there 👋, I'm Pavan Kalyan</h1>
 <h3 align="center">A Data Science and Web Development junkie. Always hungry for new tech and ready to tackle the digital jungle head-on! 🌐🧑‍💻🚀</h3>
 
