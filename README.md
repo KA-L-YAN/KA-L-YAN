@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/pavan_x_kalyan" target="blank"><img src="https://img.shields.io/twitter/follow/pavan_x_kalyan?logo=twitter&style=for-the-badge" alt="pavan_x_kalyan" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](htpps://ka-l-yan.github.io/Personal-Website)
+- 🔭 I’m currently working on [Portfolio](https://github.com/KA-L-YAN/Personal-Website)
 
 - 🌱 I’m currently learning **React, Angular and Tailwind**
 
-- 👨‍💻 All of my projects are available at [KA-L-YAN](https://github.com/KA-L-YAN?tab=repositories)
+- 👨‍💻 All of my projects are available at [KA-L-YAN](https://github.com/KA-L-YAN/)
 
 - 📫 How to reach me **pk591947@gmail.com**
 
