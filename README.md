@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pavan_x_kalyan" target="blank"><img src="https://img.shields.io/twitter/follow/pavan_x_kalyan?logo=twitter&style=for-the-badge" alt="pavan_x_kalyan" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](htpps://ka-l-yan.github.io/Personal-Website)
+- 🔭 I’m currently working on [Portfolio](www.pavankalyan.world)
 
 - 🌱 I’m currently learning **React, Angular and Tailwind**
 
