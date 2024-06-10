@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka-l-yan" alt="ka-l-yan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@pavan_x_kalyan" target="blank"><img src="https://img.shields.io/twitter/follow/@pavan_x_kalyan?logo=twitter&style=for-the-badge" alt="@pavan_x_kalyan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pavan_x_kalyan" target="blank"><img src="https://img.shields.io/twitter/follow/pavan_x_kalyan?logo=twitter&style=for-the-badge" alt="pavan_x_kalyan" /></a> </p>
 
 - 🔭 I’m currently working on [my Portfolio website](www.pavankalyan.world)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@pavan_x_kalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pavan_x_kalyan" height="30" width="40" /></a>
+<a href="https://twitter.com/pavan_x_kalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavan_x_kalyan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pavan-kalyan-budamacharla-5a07451ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-kalyan-budamacharla-5a07451ba" height="30" width="40" /></a>
 <a href="https://fb.com/100070146895340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100070146895340" height="30" width="40" /></a>
 <a href="https://instagram.com/____pavankalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____pavankalyan" height="30" width="40" /></a>
