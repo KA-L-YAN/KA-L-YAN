@@ -1,4 +1,4 @@
-![Kalyan's GitHub Banner](https://github.com/KA-L-YAN/Images/blob/main/banner.jpg)
+![Kalyan's GitHub Banner]([https://github.com/KA-L-YAN/Images/blob/main/banner.jpg](https://github.com/KA-L-YAN/Images/blob/main/Aesthetic-PC-Background-4k.jpg))
 <h1 align="center">¡Hola! 🌟 I'm Pavan Kalyan</h1>
 <h3 align="center">A Data Science and Web Development junkie. Always hungry for new tech and ready to tackle the digital jungle head-on! 🌐🧑‍💻🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
