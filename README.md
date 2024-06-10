@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Angular and Tailwind**
 
-- 👨‍💻 All of my projects are available at [KA-L-YAN](github.com/ka-l-yan)
+- 👨‍💻 All of my projects are available at [KA-L-YAN]()
 
 - 📫 How to reach me **pk591947@gmail.com**
 
